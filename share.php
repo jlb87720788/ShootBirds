@@ -84,7 +84,7 @@ background:url(https://github.com/jlb87720788/ShootBirds/raw/master/background.p
 	</head>
 <body>
 
-<a href="https://itunes.apple.com/cn/app/id1153464056">
+<a href="https://itunes.apple.com/cn/app/id1242665576">
 <img src="https://github.com/jlb87720788/ShootBirds/raw/master/iosicon.png"  style="width:30%;top:40%;left:15%;position:absolute;">
 </a>
 
