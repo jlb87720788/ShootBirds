@@ -70,7 +70,7 @@ try{
 	html{height: 100%;width: 100%;margin:0;padding:0;}
 body{
 	height: 100%;width: 100%;margin:0;padding:0;
-background:url(background.png)no-repeat;
+background:url(https://github.com/jlb87720788/ShootBirds/raw/master/background.png)no-repeat;
     width:100%;
     height:100%;
     background-size:100% 100%;
@@ -85,12 +85,12 @@ background:url(background.png)no-repeat;
 <body>
 
 <a href="https://itunes.apple.com/cn/app/id1153464056">
-<img src="iosicon.png"  style="width:30%;top:40%;left:15%;position:absolute;">
+<img src="https://github.com/jlb87720788/ShootBirds/raw/master/iosicon.png"  style="width:30%;top:40%;left:15%;position:absolute;">
 </a>
 
 
-<a href="/Android_shootbird.apk">
-<img src="androidicon.png"  style="width:30%;top:40%;right:15%;position:absolute;">
+<a href="https://github.com/jlb87720788/ShootBirds/raw/master/Android_shootbird.apk">
+<img src="https://github.com/jlb87720788/ShootBirds/raw/master/androidicon.png"  style="width:30%;top:40%;right:15%;position:absolute;">
 </a>
 
 
