@@ -70,7 +70,7 @@ try{
 	html{height: 100%;width: 100%;margin:0;padding:0;}
 body{
 	height: 100%;width: 100%;margin:0;padding:0;
-background:url(https://github.com/jlb87720788/ShootBirds/raw/master/background.png)no-repeat;
+    background-color:#000;
     width:100%;
     height:100%;
     background-size:100% 100%;
@@ -83,6 +83,10 @@ background:url(https://github.com/jlb87720788/ShootBirds/raw/master/background.p
 
 	</head>
 <body>
+
+<img src="https://github.com/jlb87720788/ShootBirds/raw/master/webicon.png"  style="width:50%;top:10%;left:20%;position:absolute;">
+
+
 
 <a href="https://itunes.apple.com/cn/app/id1242665576">
 <img src="https://github.com/jlb87720788/ShootBirds/raw/master/iosicon.png"  style="width:30%;top:40%;left:15%;position:absolute;">
